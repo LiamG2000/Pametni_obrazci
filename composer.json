@@ -1,7 +1,5 @@
 {
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "require-dev": {
-        "phpmetrics/phpmetrics": "^2.8"
+        "phploc/phploc": "^7.0"
     }
 }
